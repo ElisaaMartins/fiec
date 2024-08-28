@@ -1,0 +1,8 @@
+ul {
+    display: inline-block;
+}
+
+ol {
+    display: inline-block;
+    margin-left: 50%;
+}

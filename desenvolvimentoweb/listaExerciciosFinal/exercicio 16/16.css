@@ -1,0 +1,30 @@
+header {
+    background: linear-gradient(40deg, rgba(163,100,96,1) 0%, rgba(190,96,85,1) 41%, rgba(237,186,156,1) 75%);
+    top: 0;
+    position: absolute;
+    height: 3rem;
+    width: 100vw; 
+    z-index: 10; 
+}
+
+header ul {
+    text-align: center;
+}
+
+header ul li {
+    display: inline-block;
+    padding-right: 5rem;
+}
+
+header ul li a {
+    color:white;
+    text-decoration: none;
+}
+
+header span img {
+    position: absolute;
+    left: 1rem;
+    top: 0.5rem;
+    height: 2.0rem;
+    width: 2.0rem;
+}

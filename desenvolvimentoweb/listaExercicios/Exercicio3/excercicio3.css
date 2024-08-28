@@ -1,0 +1,36 @@
+#bolo {
+    position:absolute;
+    left:32.5%;
+    height: 50%;
+    width: 20%;
+    margin-top: 11%;
+}
+
+h1 {
+    position: absolute;
+    right: 20%;
+    left: 60%;
+    margin-top: 10%;
+    color:crimson;
+    font-family: sans-serif;
+}
+
+#chocolate {
+    position: absolute;
+    right: 20%;
+    left: 55%;
+    margin-top:10%;
+}
+body {
+    background-image: url("pau.jpg");
+}
+
+#livro {
+position:absolute;
+height:900px;
+width:60%;
+right: 30%;
+left: 25%;
+margin-top: 0%;
+
+}

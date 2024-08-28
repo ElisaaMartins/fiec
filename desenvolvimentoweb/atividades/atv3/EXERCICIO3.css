@@ -1,0 +1,41 @@
+#quadrado1 {
+    height: 80px;
+    background-color: green;
+    width: 30%;
+    position: absolute;
+    left: 5%;
+    border:solid;
+    top: 5%;
+}
+
+#quadrado2 {
+    height: 80px;
+    background-color: yellow;
+    width: 100%;
+    position: absolute;
+    left: 200%;
+    border:solid;
+    top: 250%;
+}
+
+#quadrado3 {
+    height: 80px;
+    background-color: orangered;
+    width: 100%;
+    position: absolute;
+    right: 200%;
+    border:solid;
+    top:300%;
+}
+
+#p1 {
+    text-align: center;
+}
+
+#p2 {
+    text-align: center;
+}
+
+#p3 {
+    text-align:center;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+}
+
+table {
+    text-align: center;
+    margin-top: 5%;
+    width: 600px;
+    
+}
+
+table img {
+    width: 90px;
+}
+
+#laranja {
+    border-top-left-radius: 250px;
+    border-bottom-left-radius: 90px;
+    width: 600px;
+    height: 580px;
+    margin-left: 55%;
+    background-color: orange;
+    padding: 0%;
+    margin-top: -10%;
+}
+
+#div1 {
+    margin-top: -10%;
+    margin-left: 70%;
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#chuteira {
+    margin-top: -20%;
+    margin-left: 45%;
+}
+
+#chuteira img {
+    width: 200px;
+}

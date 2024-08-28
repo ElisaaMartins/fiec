@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    
+}
+
+html {
+    font-size: 16px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3rem;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+header img {
+    width: 1rem;
+   
+}
+
+main {
+    margin: 3rem; /*  3 x font-size da tag html */
+}
+
+#logo {
+    position: fixed;
+    left: 10rem;
+    top: 1rem;
+}
+
+header ul {
+    position: fixed;
+    right: 10rem;
+
+}
+
+header ul li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+header ul li:hover {
+    color: white;
+    background-color: black;
+}
+
+#principal div img {
+    width: 100%;
+    height: 25rem;
+}
+
+#descricao-imagem {
+    position: relative;
+    top: -10rem;
+    left: 10rem;
+    background-color: #424222;
+    width: 20rem;
+    height: 6rem;
+    color: white;
+
+}
+
+#sobre blockquote {
+    width: 60%;
+    text-align: justify;
+    margin-left: 20rem;
+}
+
+#produtos {
+    width: 100%;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    
+}
+
+#lugar{
+    margin-left: 0%;
+}
+
+#contatos{
+    margin-left: 100px; 
+}
+
+#contatos2{
+    margin-left: 700px; 
+}

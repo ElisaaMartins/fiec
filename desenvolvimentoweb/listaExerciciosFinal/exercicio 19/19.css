@@ -1,0 +1,13 @@
+table {
+    width: 600px;
+    border: solid orange 2px;
+    text-align: center;
+}
+
+#q1 {
+    background-color: orange;
+}
+
+img {
+    width: 50px;
+}

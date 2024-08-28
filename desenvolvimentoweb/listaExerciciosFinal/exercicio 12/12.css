@@ -1,0 +1,14 @@
+ul {
+    list-style-type:none;
+    font-size: large;
+}
+
+iframe{
+    margin-left: 30%;
+    margin-top: -10%;
+}
+
+div {
+    margin-top: 10%;
+    margin-left: 10%;
+}

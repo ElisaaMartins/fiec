@@ -1,0 +1,40 @@
+#q3 {
+    width: 200px;
+    height: 250px;
+    border: solid 1px;
+    background-color: green;
+    margin-left: 15%;
+    margin-top: -10%;
+    z-index: -2;
+}
+
+#q1 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    background-color: yellow;
+    z-index: -1;
+}
+
+#q2 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    background-color: red;
+    margin-left: 5%;
+    margin-top: -20%;
+    z-index: 2;
+}
+
+
+
+#q4 {
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+    background-color: blue;
+    margin-left: 20%;
+    margin-top: -10%;
+    z-index: 1;
+}
+

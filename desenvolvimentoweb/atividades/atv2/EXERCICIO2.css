@@ -1,0 +1,40 @@
+.header {
+    background-color:steelblue;
+    height: 50px;
+    width: 100%;
+    border:solid;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1::first-letter{
+    color: red;
+    font-size: 50px;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    border-spacing: 50px;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type:square;
+}
+
+.baseboard {
+    background-color:white;
+    height: 10px;
+    width: 100%;
+    border-top:solid;
+}
+
+p {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,35 @@
+header {
+    position: absolute;
+    top: 0;
+    height: 3rem;
+    background: linear-gradient(90deg, rgba(111,191,195,1) 18%, rgba(120,158,210,1) 51%, rgba(120,158,210,0.25986078886310904) 78%);
+    width: 100vw;
+    z-index: 30;
+}
+
+header ul {
+    text-align: center;
+    
+}
+
+header ul li {
+    display: inline-block;
+    padding-right: 5rem;
+    color: white;
+} 
+
+
+header span img{
+    position: absolute;
+    left: 1rem;
+    top: 0.5rem;
+    height: 2.0rem;
+    width: 2.0rem;
+}
+
+#pginicial {
+ margin-top: 4rem ;
+ margin-left: 50rem;
+}
+
+

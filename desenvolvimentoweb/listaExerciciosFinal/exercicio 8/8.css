@@ -1,0 +1,13 @@
+#img1 {
+    float: right;
+    width: 200px;
+    border: solid 2px;
+    height: 200px;
+}
+
+div {
+    text-align: center;
+    font-size: larger;
+    border: solid 3px;
+    height: 200px;
+}

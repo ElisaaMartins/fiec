@@ -1,0 +1,49 @@
+#seleção {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1rem;
+    
+}
+
+.card {
+    display: inline-block;
+    height: 32rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    background-color: #f2f2f2;
+    border-radius: 2rem 2rem 0 0;
+}
+ 
+.card img {
+    width: 100%;
+    height: 22rem;
+    border-radius: 2rem 2rem 0 0;
+}
+
+.conteudo {
+    height: 10rem;
+    margin-left: 1rem;
+}
+
+#botão button {   
+    padding: 2rem 3rem;
+    font-size: 2rem;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 2rem;
+    text-align: center;
+    animation-name: botaoBrasil;
+    animation-duration: 10s; 
+    animation-iteration-count: 2;
+    cursor: pointer;
+}
+
+
+@keyframes botaoBrasil {
+    0% { background-color: green; top: 1rem;} 
+    50% { background-color: yellow; color: black; top: 1rem; } 
+    75% { background-color: blue;  color: white; top: -1rem;} 
+    100% { background-color: gree; top: 1rem;} 
+}

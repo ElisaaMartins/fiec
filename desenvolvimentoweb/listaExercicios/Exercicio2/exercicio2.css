@@ -1,0 +1,55 @@
+body {
+    background-image: url("céu.jpg");
+
+}
+
+#foguete {
+    width:90px;
+    position: absolute;
+    left: 80%;
+    top: 20%;
+}
+
+#lua {
+    width:300px;
+    position: absolute;
+    left: 73%;
+    top: 50%;    
+}
+
+#menu {
+    width:30px;
+    position: absolute;
+    left: 95%;
+    top: 2%;  
+}
+
+#quadrado{
+    background-color: #283F86;
+    width: 100%;
+    height: 35px;
+}
+
+#p1 {
+    color: white;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+blockquote {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right: 50%;
+}

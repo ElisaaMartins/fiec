@@ -1,0 +1,55 @@
+img {
+    width: 600px;
+    height: 600px;
+}
+
+section {
+    margin-left: 50%;
+    margin-top: -40%;
+}
+
+#q1 {
+    font-size: 40px;
+}
+
+hr  {
+    margin-top: 5%;
+}
+
+#info {
+    margin-top: 5%;
+    width: 300px;
+}
+
+#right {
+    text-align: right;
+}
+
+button {
+    background-color: green;
+    color: white;
+    text-align: center;
+    border: none;
+    width: 500px;
+    height: 50px;
+    padding: auto;
+    margin-left: 10%;
+    margin-top: 10%;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#promo {
+    height: 150px;
+    width: 200px;
+    margin-left: 10%;
+    float: left;
+    position: relative;
+    animation: promocaoAnim 5s ease 0s 1 normal forwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes promocaoAnim {
+    0% { transform: rotate(-540deg) scale(0);}
+    100% { transform: rotate(0deg) scale(1);}
+}

@@ -1,0 +1,237 @@
+body{
+    background-color:gainsboro;
+}
+
+#laranja{
+    width: 1349px;
+    height: 50px;
+    background-color:orange;
+    left:0%;
+    top:0%;
+    right: 0%;
+    position: absolute;
+}
+
+#logo{
+    width: 50px;
+    height: 40px;
+    top:5px;
+    left: 200px;
+    position: absolute;
+}
+
+#nome{
+    top:-7px;
+    left: 265px;
+    position: absolute;
+}
+
+#menu{
+    position: absolute;
+    top:15px;
+    left: 600px;
+    font-size: larger;
+}
+
+#contato{
+    position: absolute;
+    top:10px;
+    left: 1100px;
+}
+
+#branco {
+    width: 1349px;
+    height: 400px;
+    background-color:white;
+    left:0%;
+    right: 0%;
+    top:80px;
+    position: absolute;
+}
+
+#menu2{
+    position: absolute;
+    width: 900px;
+    height: 375px;
+    left:250px;
+    top:90px;
+}
+
+#titulo{
+    position: absolute;
+    color: white;
+    left:290px;
+    top:110px;
+}
+
+#textinho{
+    position: absolute;
+    color: white;
+    left:290px;
+    top:200px;
+    right: 750px;
+}
+
+#mais{
+    position: absolute;
+    color: white;
+    left:290px;
+    top:350px;
+    right: 750px;
+}
+
+#bloco1{
+    width: 200px;
+    height: 320px;
+    background-color:darkgray;
+    left:265px;
+    top:500px;
+    position: absolute;
+}
+
+#foto{
+    width: 80px;
+    position: absolute;
+    left:320px;
+    top:520px;
+}
+
+#texto{
+    position: absolute;
+    left:290px;
+    top:590px;
+    right: 900px;
+}
+
+#azul1{
+    width: 100px;
+    height: 40px;
+    background-color:cornflowerblue;
+    left:310px;
+    top:805px;
+    position: absolute;
+}
+
+#dd{
+    left:315px;
+    top:815px;
+    right: 855px;
+    position: absolute;
+}
+
+#bloco2{
+    width: 200px;
+    height: 320px;
+    background-color:darkgray;
+    left:475px;
+    top:500px;
+    position: absolute;
+}
+
+#mapa{
+    width: 80px;
+    position: absolute;
+    left:530px;
+    top:520px;
+}
+
+#texto2{
+    position: absolute;
+    left:500px;
+    top:590px;
+    right: 700px;
+}
+
+#azul2{
+    width: 100px;
+    height: 40px;
+    background-color:cornflowerblue;
+    left:530px;
+    top:805px;
+    position: absolute;
+}
+
+#dd2{
+    left:535px;
+    top:815px;
+    right: 605px;
+    position: absolute;
+}
+
+#bloco3{
+    width: 200px;
+    height: 320px;
+    background-color:darkgray;
+    left:685px;
+    top:500px;
+    position: absolute;
+}
+
+#nuvem{
+    width: 80px;
+    position: absolute;
+    left:740px;
+    top:520px;
+}
+
+#texto3{
+    position: absolute;
+    left:700px;
+    top:590px;
+    right: 490px;
+}
+
+#azul3{
+    width: 100px;
+    height: 40px;
+    background-color:cornflowerblue;
+    left:740px;
+    top:805px;
+    position: absolute;
+}
+
+#dd3{
+    left:745px;
+    top:815px;
+    right: 400px;
+    position: absolute;
+}
+
+#bloco4{
+    width: 200px;
+    height: 320px;
+    background-color:darkgray;
+    left:900px;
+    top:500px;
+    position: absolute;
+}
+
+#predio{
+    width: 80px;
+    position: absolute;
+    left:960px;
+    top:520px;
+}
+
+#texto4{
+    position: absolute;
+    left:920px;
+    top:590px;
+    right: 280px;
+}
+
+#azul4{
+    width: 100px;
+    height: 40px;
+    background-color:cornflowerblue;
+    left:960px;
+    top:805px;
+    position: absolute;
+}
+
+#dd4{
+    left:965px;
+    top:815px;
+    right: 200px;
+    position: absolute;
+}

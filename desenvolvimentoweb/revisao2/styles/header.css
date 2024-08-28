@@ -1,0 +1,52 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3rem;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,79,121,0.12368697478991597) 0%, rgba(218,222,38,0.8631827731092436) 47%, rgba(0,255,68,0.7959558823529411) 100%, rgba(11,7,138,1) 100%, rgba(187,133,6,0.3617822128851541) 100%, rgba(11,15,136,1) 100%);
+    width: 100%;
+    z-index: 30;
+}
+
+header ul {
+    text-align: center;
+    top: -1rem;
+    
+}
+
+header ul li {
+    display: inline-block;
+}
+header ul li a {
+    text-decoration: none;
+    color: blue;
+    padding-right: 5rem;
+    font-weight: bold;
+}
+
+header img {
+    float: left;
+    width: 3rem;
+    height: 3rem;
+    position: fixed;
+    top: 0rem
+}
+
+#background {
+    background-image: url("../images/estadiocopa.jpg");
+    opacity: 0.1;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -10;
+}
+
+main {
+    width: 90%;
+    margin: 4rem auto;
+}

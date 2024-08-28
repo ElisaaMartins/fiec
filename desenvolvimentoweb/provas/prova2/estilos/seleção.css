@@ -1,0 +1,59 @@
+.checked {
+    color: yellow
+  }
+
+#jogadores {
+    width: 60%;
+    height: 700px;
+    margin: 0 auto;
+    background: linear-gradient(90deg, rgba(111,158,195,1) 20%, rgba(210,210,120,0.21809744779582363) 97%);
+}
+
+.selecao {
+    height: 10rem;
+    width: 100%;
+}
+
+.selecao img {
+    width: 10rem;
+    height: 10rem;
+    float: right;
+}
+
+.selecao p {
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+.selecao p span {
+    float: right;
+    margin-right: 3rem;
+}
+
+.botao button { 
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 900px;  
+    padding: 2rem 3rem;
+    font-size: 2rem;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 2rem;
+    text-align: center;
+
+    animation-name: botaoAnimation;
+    animation-duration: 10s; 
+    animation-iteration-count: 2;
+    cursor: pointer;
+    position: relative;
+    animation: botaoAnimation 5s ease 0s 1 normal forwards;
+}
+
+@keyframes botaoAnimation {
+    0% {top: 2rem;} 
+    25% {top: 1rem;} 
+    50% {top: -1rem;} 
+    75% {top: 1rem;} 
+    100% {top: 2rem;}
+}

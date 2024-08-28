@@ -1,0 +1,31 @@
+#center {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:red;
+    width: 300px;
+    height: 200px;
+    margin-left: 5%;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+#left {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    background-color:yellow;
+    width: 300px;
+    height: 200px;
+    margin-left: 5%;
+    text-align: left;
+}
+
+#right {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: inline-block;
+    background-color:green;
+    width: 300px;
+    height: 200px;
+    margin-left: 5%;
+    text-align: right;
+}

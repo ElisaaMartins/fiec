@@ -1,0 +1,30 @@
+img {
+    width: 50px;
+    border-radius: 25px;
+
+}
+
+#div1 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 25%;
+}
+
+#div2 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#div3 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 5%;
+
+}
+
+#div4 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 5%;
+}
